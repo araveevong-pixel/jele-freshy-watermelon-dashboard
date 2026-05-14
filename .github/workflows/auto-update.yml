@@ -42,11 +42,14 @@ jobs:
         run: |
           if [ -n "$TIKTOK_COOKIES" ]; then
             echo "$TIKTOK_COOKIES" > /tmp/tiktok_cookies.txt
-            echo "✓ Cookies file written ($(wc -l < /tmp/tiktok_cookies.txt) lines)"
-            export TIKTOK_COOKIES_FILE=/tmp/tiktok_cookies.txt
+            LINES=$(wc -l < /tmp/tiktok_cookies.txt)
+            FIRST=$(head -1 /tmp/tiktok_cookies.txt | head -c 80)
+            HAS_TT=$(grep -c "tiktok.com" /tmp/tiktok_cookies.txt || echo 0)
+            echo "✓ Cookies: $LINES lines, $HAS_TT tiktok.com entries"
+            echo "  First line: $FIRST"
             echo "TIKTOK_COOKIES_FILE=/tmp/tiktok_cookies.txt" >> $GITHUB_ENV
           else
-            echo "No TIKTOK_COOKIES secret set — scraper will run without auth"
+            echo "⚠ No TIKTOK_COOKIES secret set — scraper will run WITHOUT auth"
           fi
 
       - name: Run TikTok Scraper
