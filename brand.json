@@ -1,0 +1,24 @@
+{
+  "campaign_name": "JELE Freshy แตงโม 2026",
+  "logo_emoji": "🍉",
+  "tagline": "KOL Influencer Marketing Campaign Dashboard — JELE Freshy แตงโม",
+  "platform": "TikTok + Facebook",
+  "agency": "BBB",
+  "hashtags": "#JELEFreshy #JELEแตงโม",
+  "kpi_target_views": 3700000,
+  "media_budget": 102500,
+  "color_primary": "#FF4B7C",
+  "color_primary_dark": "#D8336A",
+  "color_secondary": "#5BC25B",
+  "color_accents": [
+    "#FF6B9D",
+    "#5BC25B",
+    "#FFB84D",
+    "#9D5BFF",
+    "#0077B6"
+  ],
+  "github_user": "araveevong-pixel",
+  "repo_name": "jele-freshy-watermelon-dashboard",
+  "category_label": "Category",
+  "tier_label": "Tier"
+}
