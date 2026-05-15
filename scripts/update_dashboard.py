@@ -72,23 +72,23 @@ KOL_METADATA = {
 }
 
 KOL_LINKS = {
-    "reviewmakro_fb": "https://www.facebook.com/share/17unLd8sow/",
-    "yureefakel": "",
+    "reviewmakro_fb": "https://www.facebook.com/ReviewMakro/posts/998833782662650",
+    "yureefakel": "https://vt.tiktok.com/ZSxeTK8ph/",
     "pesoshekel": "https://vt.tiktok.com/ZS9omNMYD/",
-    "flintfle": "",
+    "flintfle": "https://vt.tiktok.com/ZSxRP88gu/",
     "fahfuufyyy": "https://vt.tiktok.com/ZS9KXY8E8/",
     "allailovee": "https://vt.tiktok.com/ZSxJcsRFB/",
     "dolinn__": "https://vt.tiktok.com/ZSxJPDQDn/",
 }
 
 # KOLs ที่ยังไม่โพสต์ — ลบชื่อออกเมื่อโพสต์แล้ว
-NOT_POSTED_KOLS = set(["reviewmakro_fb", "yureefakel", "flintfle"])
+NOT_POSTED_KOLS = set([])
 
 KOL_STATUS = {
-    "reviewmakro_fb": "รอส่ง",
-    "yureefakel": "Draft 2",
+    "reviewmakro_fb": "Posted",
+    "yureefakel": "Posted",
     "pesoshekel": "Posted",
-    "flintfle": "Draft 1",
+    "flintfle": "Posted",
     "fahfuufyyy": "Posted",
     "allailovee": "Posted",
     "dolinn__": "Posted",

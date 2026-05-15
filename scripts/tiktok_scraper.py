@@ -27,10 +27,10 @@ MANUAL_OVERRIDE = {
 #  KOL LINKS — สร้างจาก Excel โดย skill kol-dashboard-generator
 # ============================================================
 KOL_LINKS = {
-    "reviewmakro_fb": "https://www.facebook.com/share/17unLd8sow/",
-    "yureefakel": "",
+    "reviewmakro_fb": "https://www.facebook.com/ReviewMakro/posts/998833782662650",
+    "yureefakel": "https://vt.tiktok.com/ZSxeTK8ph/",
     "pesoshekel": "https://vt.tiktok.com/ZS9omNMYD/",
-    "flintfle": "",
+    "flintfle": "https://vt.tiktok.com/ZSxRP88gu/",
     "fahfuufyyy": "https://vt.tiktok.com/ZS9KXY8E8/",
     "allailovee": "https://vt.tiktok.com/ZSxJcsRFB/",
     "dolinn__": "https://vt.tiktok.com/ZSxJPDQDn/",
