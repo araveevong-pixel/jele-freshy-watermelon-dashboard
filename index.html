@@ -438,7 +438,7 @@
             </div>
             <div class="kpi-card">
                 <div class="kpi-label">Media Budget</div>
-                <div class="kpi-value neutral" id="kpi-budget">102,500</div>
+                <div class="kpi-value neutral" id="kpi-budget">40,000</div>
                 <div class="kpi-subtitle">THB</div>
             </div>
             <div class="kpi-card">
@@ -585,7 +585,7 @@
                     <label>Actual Use (THB)</label>
                     <input type="number" id="actualUseInput" class="input-number" placeholder="0">
                 </div>
-                <p style="color: var(--text-light); font-size: 0.9em;">ค่าระหว่าง 0 - 102,500 THB</p>
+                <p style="color: var(--text-light); font-size: 0.9em;">ค่าระหว่าง 0 - 40,000 THB</p>
             </div>
             <div class="modal-footer">
                 <button class="btn btn-secondary" onclick="closeModal('actualUseModal')">Cancel</button>
@@ -597,26 +597,10 @@
     <script>
         // Per-category KPI targets and budgets — applied when filter active
         const CATEGORY_CONFIG = {
-                    "all": {
-                                "target": 3700000,
-                                "budget": 102500,
-                                "label": "ทั้งแคมเปญ"
-                    },
-                    "Page FB": {
-                                "target": 1200000,
-                                "budget": 54000,
-                                "label": "Facebook"
-                    },
-                    "Mom And Baby": {
-                                "target": 1250000,
-                                "budget": 25000,
-                                "label": "Mom And Baby"
-                    },
-                    "สายชอบของน่ารัก/Note": {
-                                "target": 1250000,
-                                "budget": 23500,
-                                "label": "สายชอบของน่ารัก/Note"
-                    }
+            "all":       { "target": 3700000, "budget": 40000,  "label": "ทั้งแคมเปญ" },
+            "Page FB":   { "target": 1200000, "budget": 15000,  "label": "Facebook" },
+            "Mom And Baby":         { "target": 1250000, "budget": 12500, "label": "Mom And Baby" },
+            "สายชอบของน่ารัก/Note": { "target": 1250000, "budget": 12500, "label": "สายชอบของน่ารัก/Note" }
         };
 
         const CAMPAIGN_KPI_VIEWS = CATEGORY_CONFIG.all.target;
