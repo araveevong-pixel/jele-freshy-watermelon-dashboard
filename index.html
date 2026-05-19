@@ -510,6 +510,13 @@
         </div>
 
         <div class="filter-section">
+            <div class="filter-label">Platform</div>
+            <div class="tab-group" id="platform-tabs">
+                <button class="tab active" data-platform="all">ทั้งหมด</button>
+                <button class="tab" data-platform="Facebook">📘 Facebook</button>
+                <button class="tab" data-platform="TikTok">🎵 TikTok</button>
+            </div>
+
             <div class="filter-label">สินค้า/หมวด</div>
             <div class="tab-group" id="category-tabs">
                 <button class="tab active" data-category="all">ทั้งหมด</button>
@@ -596,8 +603,10 @@
 
     <script>
         // Per-category KPI targets and budgets — applied when filter active
-        const CATEGORY_CONFIG = {
+                const CATEGORY_CONFIG = {
             "all":       { "target": 3700000, "budget": 40000,  "label": "ทั้งแคมเปญ" },
+            "Facebook":  { "target": 1200000, "budget": 15000,  "label": "Facebook" },
+            "TikTok":    { "target": 2500000, "budget": 25000,  "label": "TikTok" },
             "Page FB":   { "target": 1200000, "budget": 15000,  "label": "Facebook" },
             "Mom And Baby":         { "target": 1250000, "budget": 12500, "label": "Mom And Baby" },
             "สายชอบของน่ารัก/Note": { "target": 1250000, "budget": 12500, "label": "สายชอบของน่ารัก/Note" }
@@ -622,6 +631,7 @@
 
         let kolData = [...KOL_DATA];
         let currentCategoryFilter = 'all';
+        let currentPlatformFilter = 'all';
         let currentSort = null;
         let sortDirection = 'asc';
         let CAMPAIGN_ACTUAL_USE = parseFloat(localStorage.getItem(STORAGE_KEY)) || CAMPAIGN_ACTUAL_USE_DEFAULT;
@@ -661,7 +671,9 @@
 
         function getFilteredData() {
             let filtered = kolData.filter(kol => {
-                return currentCategoryFilter === 'all' || kol.category === currentCategoryFilter;
+                const categoryMatch = currentCategoryFilter === 'all' || kol.category === currentCategoryFilter;
+                const platformMatch = currentPlatformFilter === 'all' || kol.platform === currentPlatformFilter;
+                return categoryMatch && platformMatch;
             });
 
             if (currentSort) {
@@ -705,7 +717,10 @@
             stats.erViews = stats.totalViews > 0 ? ((stats.totalEngagement / stats.totalViews) * 100).toFixed(2) : 0;
             stats.erFollowers = stats.totalFollowers > 0 ? ((stats.totalEngagement / stats.totalFollowers) * 100).toFixed(2) : 0;
             // Use category-specific target/budget when filter active
-            const cfg = CATEGORY_CONFIG[currentCategoryFilter] || CATEGORY_CONFIG.all;
+            let cfgKey = 'all';
+            if (currentPlatformFilter !== 'all') cfgKey = currentPlatformFilter;
+            else if (currentCategoryFilter !== 'all') cfgKey = currentCategoryFilter;
+            const cfg = CATEGORY_CONFIG[cfgKey] || CATEGORY_CONFIG.all;
             stats.activeTarget = cfg.target;
             stats.activeBudget = cfg.budget;
             stats.achievePct = ((stats.totalViews / cfg.target) * 100).toFixed(2);
