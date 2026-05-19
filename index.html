@@ -655,6 +655,18 @@
                 });
             });
 
+            document.querySelectorAll('#platform-tabs .tab').forEach(tab => {
+                tab.addEventListener('click', function() {
+                    document.querySelectorAll('#platform-tabs .tab').forEach(t => t.classList.remove('active'));
+                    this.classList.add('active');
+                    currentPlatformFilter = this.dataset.platform;
+                    renderKOLTable();
+                    updateKPIs();
+                    updateCharts();
+                    updateRankings();
+                });
+            });
+
             document.querySelectorAll('th.sortable').forEach(th => {
                 th.addEventListener('click', function() {
                     const column = this.dataset.sort;
