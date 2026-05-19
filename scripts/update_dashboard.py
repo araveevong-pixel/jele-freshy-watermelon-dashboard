@@ -18,6 +18,7 @@ KOL_METADATA = {
         "tier": "Page FB",
         "category": "Page FB",
         "gender": "-",
+        "platform": "Facebook",
         "followers": 1000000,
         "budget": 54000
     },
@@ -134,6 +135,7 @@ def build_kol_entry(username, scrape_data, link='', existing_data=None):
     tier = meta.get('tier', 'Unknown')
     category = meta.get('category', 'Unknown')
     gender = meta.get('gender', '-')
+    platform = meta.get('platform', 'TikTok')
     followers = sd.get('followers', 0) or meta.get('followers', 0)
     budget = meta.get('budget', 0)
 
@@ -157,7 +159,7 @@ def build_kol_entry(username, scrape_data, link='', existing_data=None):
     status = KOL_STATUS.get(username, 'รอส่ง')
     return (
         f"  {{ username: '{js_escape(username)}', displayName: '{js_escape(display_name)}', "
-        f"tier: '{js_escape(tier)}', platform: 'TikTok', category: '{js_escape(category)}', "
+        f"tier: '{js_escape(tier)}', platform: '{js_escape(platform)}', category: '{js_escape(category)}', "
         f"gender: '{js_escape(gender)}', followers: {followers}, "
         f"views: {views}, likes: {likes}, shares: {shares}, "
         f"comments: {comments}, saves: {saves}, "
