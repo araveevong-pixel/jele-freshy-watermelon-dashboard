@@ -10,7 +10,7 @@
   },
   "yureefakel": {
     "url": "https://www.tiktok.com/@yureefake/video/7639755715552267541?_r=1&_t=ZS-96MAADVk8VF",
-    "views": 107900,
+    "views": 108000,
     "likes": 275,
     "shares": 4,
     "comments": 3,
@@ -19,29 +19,26 @@
   },
   "pesoshekel": {
     "url": "https://www.tiktok.com/@pesoshekel/video/7639252312438869255?_r=1&_t=ZS-96Jr8Zk19b2",
-    "views": 62000,
+    "views": 62100,
     "likes": 219,
     "shares": 9,
     "comments": 53,
     "saves": 46,
     "followers": 0
   },
-  "flintfle": {
-    "url": "https://www.tiktok.com/@flintfle/video/7639986768208547093?_r=1&_t=ZS-96NI5JFJlo4",
-    "views": 209100,
-    "likes": 4881,
-    "shares": 214,
-    "comments": 42,
-    "saves": 387,
-    "followers": 0
+  "_debug_flintfle": {
+    "orig_url": "https://vt.tiktok.com/ZSxRP88gu/",
+    "curl_resolve": "https://www.tiktok.com/@flintfle/video/7639986768208547093?_r=1&_t=ZS-96NI5JFJlo4|403",
+    "ytdlp_stderr": "WARNING: [TikTok] The extractor is attempting impersonation, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies\n",
+    "ytdlp_returncode": 0
   },
   "fahfuufyyy": {
-    "url": "https://www.tiktok.com/@fahfuufyyy/video/7638949288759840020?_r=1&_t=ZS-96IUKnT2qMz",
-    "views": 342700,
-    "likes": 247,
+    "url": "https://www.tiktok.com/@fahfuufyyy/video/7638949288759840020",
+    "views": 346100,
+    "likes": 249,
     "shares": 19,
     "comments": 5,
-    "saves": 34,
+    "saves": 35,
     "followers": 0
   },
   "_debug_allailovee": {
@@ -52,9 +49,9 @@
   },
   "dolinn__": {
     "url": "https://www.tiktok.com/@dolinn__/video/7639554322346331400?_r=1&_t=ZS-96LEtZk5xrj",
-    "views": 360300,
-    "likes": 298,
-    "shares": 22,
+    "views": 364900,
+    "likes": 300,
+    "shares": 23,
     "comments": 8,
     "saves": 25,
     "followers": 0
