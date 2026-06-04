@@ -8,18 +8,15 @@
     "followers": 1000000,
     "url": "https://www.facebook.com/ReviewMakro/posts/998833782662650"
   },
-  "yureefakel": {
-    "url": "https://www.tiktok.com/@yureefake/video/7639755715552267541?_r=1&_t=ZS-96MAADVk8VF",
-    "views": 288400,
-    "likes": 389,
-    "shares": 4,
-    "comments": 3,
-    "saves": 31,
-    "followers": 0
+  "_debug_yureefakel": {
+    "orig_url": "https://vt.tiktok.com/ZSxeTK8ph/",
+    "curl_resolve": "https://www.tiktok.com/@yureefake/video/7639755715552267541?_r=1&_t=ZS-96MAADVk8VF|403",
+    "ytdlp_stderr": "WARNING: [TikTok] The extractor is attempting impersonation, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies\nERROR: [TikTok] 7639755715552267541: Unable to download webpage: HTTP Error 403: Forbidden (caused by <HTTPError 403: Forbidden>)\n",
+    "ytdlp_returncode": 1
   },
   "pesoshekel": {
     "url": "https://www.tiktok.com/@pesoshekel/video/7639252312438869255?_r=1&_t=ZS-96Jr8Zk19b2",
-    "views": 185600,
+    "views": 186000,
     "likes": 311,
     "shares": 10,
     "comments": 53,
@@ -28,8 +25,8 @@
   },
   "flintfle": {
     "url": "https://www.tiktok.com/@flintfle/video/7639986768208547093?_r=1&_t=ZS-96NI5JFJlo4",
-    "views": 242900,
-    "likes": 1500,
+    "views": 243100,
+    "likes": 1501,
     "shares": 215,
     "comments": 42,
     "saves": 415,
@@ -37,7 +34,7 @@
   },
   "fahfuufyyy": {
     "url": "https://www.tiktok.com/@fahfuufyyy/video/7638949288759840020?_r=1&_t=ZS-96IUKnT2qMz",
-    "views": 500100,
+    "views": 500500,
     "likes": 409,
     "shares": 23,
     "comments": 5,
@@ -46,7 +43,7 @@
   },
   "allailovee": {
     "url": "https://www.tiktok.com/@allailovee/video/7639612902076468498?_r=1&_t=ZS-96LVbO2w8Wb",
-    "views": 597700,
+    "views": 598100,
     "likes": 366,
     "shares": 17,
     "comments": 3,
@@ -55,7 +52,7 @@
   },
   "dolinn__": {
     "url": "https://www.tiktok.com/@dolinn__/video/7639554322346331400?_r=1&_t=ZS-96LEtZk5xrj",
-    "views": 429200,
+    "views": 429400,
     "likes": 338,
     "shares": 24,
     "comments": 8,
