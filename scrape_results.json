@@ -8,14 +8,17 @@
     "followers": 1000000,
     "url": "https://www.facebook.com/ReviewMakro/posts/998833782662650"
   },
-  "_debug_yureefakel": {
-    "orig_url": "https://vt.tiktok.com/ZSxeTK8ph/",
-    "curl_resolve": "https://www.tiktok.com/@yureefake/video/7639755715552267541?_r=1&_t=ZS-96MAADVk8VF|403",
-    "ytdlp_stderr": "WARNING: [TikTok] The extractor is attempting impersonation, but no impersonate target is available. If you encounter errors, then see  https://github.com/yt-dlp/yt-dlp#impersonation  for information on installing the required dependencies\nERROR: [TikTok] 7639755715552267541: Unable to download webpage: HTTP Error 403: Forbidden (caused by <HTTPError 403: Forbidden>)\n",
-    "ytdlp_returncode": 1
+  "yureefakel": {
+    "url": "https://www.tiktok.com/@yureefake/video/7639755715552267541?_r=1&_t=ZS-96MAADVk8VF",
+    "views": 297400,
+    "likes": 394,
+    "shares": 4,
+    "comments": 3,
+    "saves": 30,
+    "followers": 0
   },
   "pesoshekel": {
-    "url": "https://www.tiktok.com/@pesoshekel/video/7639252312438869255",
+    "url": "https://www.tiktok.com/@pesoshekel/video/7639252312438869255?_r=1&_t=ZS-96Jr8Zk19b2",
     "views": 191500,
     "likes": 320,
     "shares": 10,
