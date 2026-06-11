@@ -8,17 +8,23 @@
     "followers": 1000000,
     "url": "https://www.facebook.com/ReviewMakro/posts/998833782662650"
   },
-  "_debug_yureefakel": {
-    "orig_url": "https://vt.tiktok.com/ZSxeTK8ph/",
-    "curl_resolve": "https://www.tiktok.com/@yureefake/video/7639755715552267541?_r=1&_t=ZS-96MAADVk8VF|403",
-    "ytdlp_stderr": "ERROR: [TikTok] 7639755715552267541: Unexpected response from webpage request; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U\n",
-    "ytdlp_returncode": 1
+  "yureefakel": {
+    "url": "https://www.tiktok.com/@yureefake/video/7639755715552267541?_r=1&_t=ZS-96MAADVk8VF",
+    "views": 297400,
+    "likes": 395,
+    "shares": 4,
+    "comments": 3,
+    "saves": 30,
+    "followers": 0
   },
-  "_debug_pesoshekel": {
-    "orig_url": "https://vt.tiktok.com/ZS9omNMYD/",
-    "curl_resolve": "https://www.tiktok.com/@pesoshekel/video/7639252312438869255?_r=1&_t=ZS-96Jr8Zk19b2|403",
-    "ytdlp_stderr": "ERROR: [TikTok] 7639252312438869255: Unexpected response from webpage request; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U\n",
-    "ytdlp_returncode": 1
+  "pesoshekel": {
+    "url": "https://www.tiktok.com/@pesoshekel/video/7639252312438869255?_r=1&_t=ZS-96Jr8Zk19b2",
+    "views": 191500,
+    "likes": 321,
+    "shares": 10,
+    "comments": 53,
+    "saves": 53,
+    "followers": 0
   },
   "flintfle": {
     "url": "https://www.tiktok.com/@flintfle/video/7639986768208547093?_r=1&_t=ZS-96NI5JFJlo4",
@@ -29,23 +35,26 @@
     "saves": 506,
     "followers": 0
   },
-  "_debug_fahfuufyyy": {
-    "orig_url": "https://vt.tiktok.com/ZS9KXY8E8/",
-    "curl_resolve": "https://www.tiktok.com/@fahfuufyyy/video/7638949288759840020?_r=1&_t=ZS-96IUKnT2qMz|403",
-    "ytdlp_stderr": "",
-    "ytdlp_returncode": 0
+  "fahfuufyyy": {
+    "url": "https://www.tiktok.com/@fahfuufyyy/video/7638949288759840020?_r=1&_t=ZS-96IUKnT2qMz",
+    "views": 507200,
+    "likes": 414,
+    "shares": 23,
+    "comments": 5,
+    "saves": 53,
+    "followers": 0
   },
   "allailovee": {
-    "url": "https://www.tiktok.com/@allailovee/video/7639612902076468498",
+    "url": "https://www.tiktok.com/@allailovee/video/7639612902076468498?_r=1&_t=ZS-96LVbO2w8Wb",
     "views": 606100,
     "likes": 371,
     "shares": 17,
     "comments": 3,
-    "saves": 45,
+    "saves": 44,
     "followers": 0
   },
   "dolinn__": {
-    "url": "https://www.tiktok.com/@dolinn__/video/7639554322346331400",
+    "url": "https://www.tiktok.com/@dolinn__/video/7639554322346331400?_r=1&_t=ZS-96LEtZk5xrj",
     "views": 431500,
     "likes": 341,
     "shares": 24,
