@@ -35,14 +35,11 @@
     "saves": 814,
     "followers": 0
   },
-  "fahfuufyyy": {
-    "url": "https://www.tiktok.com/@fahfuufyyy/video/7638949288759840020?_r=1&_t=ZS-96IUKnT2qMz",
-    "views": 507200,
-    "likes": 413,
-    "shares": 23,
-    "comments": 5,
-    "saves": 53,
-    "followers": 0
+  "_debug_fahfuufyyy": {
+    "orig_url": "https://vt.tiktok.com/ZS9KXY8E8/",
+    "curl_resolve": "https://www.tiktok.com/@fahfuufyyy/video/7638949288759840020?_r=1&_t=ZS-96IUKnT2qMz|403",
+    "ytdlp_stderr": "ERROR: [TikTok] 7638949288759840020: Unexpected response from webpage request; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U\n",
+    "ytdlp_returncode": 1
   },
   "allailovee": {
     "url": "https://www.tiktok.com/@allailovee/video/7639612902076468498?_r=1&_t=ZS-96LVbO2w8Wb",
@@ -53,13 +50,10 @@
     "saves": 43,
     "followers": 0
   },
-  "dolinn__": {
-    "url": "https://www.tiktok.com/@dolinn__/video/7639554322346331400?_r=1&_t=ZS-96LEtZk5xrj",
-    "views": 431600,
-    "likes": 342,
-    "shares": 24,
-    "comments": 6,
-    "saves": 33,
-    "followers": 0
+  "_debug_dolinn__": {
+    "orig_url": "https://vt.tiktok.com/ZSxJPDQDn/",
+    "curl_resolve": "https://www.tiktok.com/@dolinn__/video/7639554322346331400?_r=1&_t=ZS-96LEtZk5xrj|403",
+    "ytdlp_stderr": "",
+    "ytdlp_returncode": 0
   }
 }
