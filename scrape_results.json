@@ -18,7 +18,7 @@
     "followers": 0
   },
   "pesoshekel": {
-    "url": "https://www.tiktok.com/@pesoshekel/video/7639252312438869255?_r=1&_t=ZS-96Jr8Zk19b2",
+    "url": "https://www.tiktok.com/@pesoshekel/video/7639252312438869255",
     "views": 191500,
     "likes": 323,
     "shares": 10,
@@ -36,7 +36,7 @@
     "followers": 0
   },
   "fahfuufyyy": {
-    "url": "https://www.tiktok.com/@fahfuufyyy/video/7638949288759840020",
+    "url": "https://www.tiktok.com/@fahfuufyyy/video/7638949288759840020?_r=1&_t=ZS-96IUKnT2qMz",
     "views": 507200,
     "likes": 413,
     "shares": 23,
@@ -44,11 +44,14 @@
     "saves": 53,
     "followers": 0
   },
-  "_debug_allailovee": {
-    "orig_url": "https://vt.tiktok.com/ZSxJcsRFB/",
-    "curl_resolve": "https://www.tiktok.com/@allailovee/video/7639612902076468498?_r=1&_t=ZS-96LVbO2w8Wb|403",
-    "ytdlp_stderr": "",
-    "ytdlp_returncode": 0
+  "allailovee": {
+    "url": "https://www.tiktok.com/@allailovee/video/7639612902076468498?_r=1&_t=ZS-96LVbO2w8Wb",
+    "views": 606200,
+    "likes": 373,
+    "shares": 17,
+    "comments": 3,
+    "saves": 42,
+    "followers": 0
   },
   "dolinn__": {
     "url": "https://www.tiktok.com/@dolinn__/video/7639554322346331400?_r=1&_t=ZS-96LEtZk5xrj",
