@@ -9,7 +9,7 @@
     "url": "https://www.facebook.com/ReviewMakro/posts/998833782662650"
   },
   "yureefakel": {
-    "url": "https://www.tiktok.com/@yureefake/video/7639755715552267541?_r=1&_t=ZS-96MAADVk8VF",
+    "url": "https://www.tiktok.com/@yureefake/video/7639755715552267541",
     "views": 297500,
     "likes": 396,
     "shares": 4,
@@ -18,7 +18,7 @@
     "followers": 0
   },
   "pesoshekel": {
-    "url": "https://www.tiktok.com/@pesoshekel/video/7639252312438869255?_r=1&_t=ZS-96Jr8Zk19b2",
+    "url": "https://www.tiktok.com/@pesoshekel/video/7639252312438869255",
     "views": 191500,
     "likes": 323,
     "shares": 10,
@@ -26,14 +26,11 @@
     "saves": 53,
     "followers": 0
   },
-  "flintfle": {
-    "url": "https://www.tiktok.com/@flintfle/video/7639986768208547093?_r=1&_t=ZS-96NI5JFJlo4",
-    "views": 244400,
-    "likes": 2791,
-    "shares": 215,
-    "comments": 42,
-    "saves": 814,
-    "followers": 0
+  "_debug_flintfle": {
+    "orig_url": "https://vt.tiktok.com/ZSxRP88gu/",
+    "curl_resolve": "https://www.tiktok.com/@flintfle/video/7639986768208547093?_r=1&_t=ZS-96NI5JFJlo4|403",
+    "ytdlp_stderr": "ERROR: [TikTok] 7639986768208547093: Unexpected response from webpage request; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U\n",
+    "ytdlp_returncode": 1
   },
   "fahfuufyyy": {
     "url": "https://www.tiktok.com/@fahfuufyyy/video/7638949288759840020?_r=1&_t=ZS-96IUKnT2qMz",
