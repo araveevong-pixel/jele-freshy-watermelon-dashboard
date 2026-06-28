@@ -17,11 +17,14 @@
     "saves": 28,
     "followers": 0
   },
-  "_debug_pesoshekel": {
-    "orig_url": "https://vt.tiktok.com/ZS9omNMYD/",
-    "curl_resolve": "https://www.tiktok.com/@pesoshekel/video/7639252312438869255?_r=1&_t=ZS-96Jr8Zk19b2|403",
-    "ytdlp_stderr": "",
-    "ytdlp_returncode": 0
+  "pesoshekel": {
+    "url": "https://www.tiktok.com/@pesoshekel/video/7639252312438869255?_r=1&_t=ZS-96Jr8Zk19b2",
+    "views": 191600,
+    "likes": 324,
+    "shares": 10,
+    "comments": 53,
+    "saves": 53,
+    "followers": 0
   },
   "flintfle": {
     "url": "https://www.tiktok.com/@flintfle/video/7639986768208547093?_r=1&_t=ZS-96NI5JFJlo4",
