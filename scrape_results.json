@@ -8,17 +8,14 @@
     "followers": 1000000,
     "url": "https://www.facebook.com/ReviewMakro/posts/998833782662650"
   },
-  "yureefakel": {
-    "url": "https://www.tiktok.com/@yureefake/video/7639755715552267541?_r=1&_t=ZS-96MAADVk8VF",
-    "views": 297600,
-    "likes": 397,
-    "shares": 4,
-    "comments": 3,
-    "saves": 28,
-    "followers": 0
+  "_debug_yureefakel": {
+    "orig_url": "https://vt.tiktok.com/ZSxeTK8ph/",
+    "curl_resolve": "https://www.tiktok.com/@yureefake/video/7639755715552267541?_r=1&_t=ZS-96MAADVk8VF|200",
+    "ytdlp_stderr": "",
+    "ytdlp_returncode": 0
   },
   "pesoshekel": {
-    "url": "https://www.tiktok.com/@pesoshekel/video/7639252312438869255?_r=1&_t=ZS-96Jr8Zk19b2",
+    "url": "https://www.tiktok.com/@pesoshekel/video/7639252312438869255",
     "views": 191600,
     "likes": 324,
     "shares": 10,
@@ -27,7 +24,7 @@
     "followers": 0
   },
   "flintfle": {
-    "url": "https://www.tiktok.com/@flintfle/video/7639986768208547093",
+    "url": "https://www.tiktok.com/@flintfle/video/7639986768208547093?_r=1&_t=ZS-96NI5JFJlo4",
     "views": 244800,
     "likes": 2813,
     "shares": 215,
@@ -36,7 +33,7 @@
     "followers": 0
   },
   "fahfuufyyy": {
-    "url": "https://www.tiktok.com/@fahfuufyyy/video/7638949288759840020?_r=1&_t=ZS-96IUKnT2qMz",
+    "url": "https://www.tiktok.com/@fahfuufyyy/video/7638949288759840020",
     "views": 507700,
     "likes": 419,
     "shares": 23,
@@ -45,7 +42,7 @@
     "followers": 0
   },
   "allailovee": {
-    "url": "https://www.tiktok.com/@allailovee/video/7639612902076468498?_r=1&_t=ZS-96LVbO2w8Wb",
+    "url": "https://www.tiktok.com/@allailovee/video/7639612902076468498",
     "views": 606400,
     "likes": 374,
     "shares": 17,
@@ -53,10 +50,13 @@
     "saves": 42,
     "followers": 0
   },
-  "_debug_dolinn__": {
-    "orig_url": "https://vt.tiktok.com/ZSxJPDQDn/",
-    "curl_resolve": "https://www.tiktok.com/@dolinn__/video/7639554322346331400?_r=1&_t=ZS-96LEtZk5xrj|200",
-    "ytdlp_stderr": "",
-    "ytdlp_returncode": 0
+  "dolinn__": {
+    "url": "https://www.tiktok.com/@dolinn__/video/7639554322346331400?_r=1&_t=ZS-96LEtZk5xrj",
+    "views": 432200,
+    "likes": 353,
+    "shares": 24,
+    "comments": 6,
+    "saves": 34,
+    "followers": 0
   }
 }
