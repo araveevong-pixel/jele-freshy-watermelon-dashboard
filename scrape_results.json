@@ -27,7 +27,7 @@
     "followers": 0
   },
   "flintfle": {
-    "url": "https://www.tiktok.com/@flintfle/video/7639986768208547093?_r=1&_t=ZS-96NI5JFJlo4",
+    "url": "https://www.tiktok.com/@flintfle/video/7639986768208547093",
     "views": 244800,
     "likes": 2813,
     "shares": 215,
@@ -53,13 +53,10 @@
     "saves": 42,
     "followers": 0
   },
-  "dolinn__": {
-    "url": "https://www.tiktok.com/@dolinn__/video/7639554322346331400?_r=1&_t=ZS-96LEtZk5xrj",
-    "views": 432200,
-    "likes": 352,
-    "shares": 24,
-    "comments": 6,
-    "saves": 34,
-    "followers": 0
+  "_debug_dolinn__": {
+    "orig_url": "https://vt.tiktok.com/ZSxJPDQDn/",
+    "curl_resolve": "https://www.tiktok.com/@dolinn__/video/7639554322346331400?_r=1&_t=ZS-96LEtZk5xrj|200",
+    "ytdlp_stderr": "",
+    "ytdlp_returncode": 0
   }
 }
