@@ -35,14 +35,11 @@
     "saves": 814,
     "followers": 0
   },
-  "fahfuufyyy": {
-    "url": "https://www.tiktok.com/@fahfuufyyy/video/7638949288759840020?_r=1&_t=ZS-96IUKnT2qMz",
-    "views": 507800,
-    "likes": 419,
-    "shares": 23,
-    "comments": 5,
-    "saves": 53,
-    "followers": 0
+  "_debug_fahfuufyyy": {
+    "orig_url": "https://vt.tiktok.com/ZS9KXY8E8/",
+    "curl_resolve": "https://www.tiktok.com/@fahfuufyyy/video/7638949288759840020?_r=1&_t=ZS-96IUKnT2qMz|200",
+    "ytdlp_stderr": "",
+    "ytdlp_returncode": 0
   },
   "allailovee": {
     "url": "https://www.tiktok.com/@allailovee/video/7639612902076468498?_r=1&_t=ZS-96LVbO2w8Wb",
