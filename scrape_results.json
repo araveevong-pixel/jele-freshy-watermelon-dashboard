@@ -9,7 +9,7 @@
     "url": "https://www.facebook.com/ReviewMakro/posts/998833782662650"
   },
   "yureefakel": {
-    "url": "https://www.tiktok.com/@yureefake/video/7639755715552267541?_r=1&_t=ZS-96MAADVk8VF",
+    "url": "https://www.tiktok.com/@yureefake/video/7639755715552267541",
     "views": 297600,
     "likes": 397,
     "shares": 4,
@@ -26,14 +26,11 @@
     "saves": 53,
     "followers": 0
   },
-  "flintfle": {
-    "url": "https://www.tiktok.com/@flintfle/video/7639986768208547093?_r=1&_t=ZS-96NI5JFJlo4",
-    "views": 244900,
-    "likes": 2814,
-    "shares": 215,
-    "comments": 43,
-    "saves": 814,
-    "followers": 0
+  "_debug_flintfle": {
+    "orig_url": "https://vt.tiktok.com/ZSxRP88gu/",
+    "curl_resolve": "https://www.tiktok.com/@flintfle/video/7639986768208547093?_r=1&_t=ZS-96NI5JFJlo4|200",
+    "ytdlp_stderr": "",
+    "ytdlp_returncode": 0
   },
   "fahfuufyyy": {
     "url": "https://www.tiktok.com/@fahfuufyyy/video/7638949288759840020?_r=1&_t=ZS-96IUKnT2qMz",
