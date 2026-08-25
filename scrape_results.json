@@ -17,14 +17,11 @@
     "saves": 28,
     "followers": 0
   },
-  "pesoshekel": {
-    "url": "https://www.tiktok.com/@pesoshekel/video/7639252312438869255?_r=1&_t=ZS-96Jr8Zk19b2",
-    "views": 191700,
-    "likes": 325,
-    "shares": 10,
-    "comments": 53,
-    "saves": 52,
-    "followers": 0
+  "_debug_pesoshekel": {
+    "orig_url": "https://vt.tiktok.com/ZS9omNMYD/",
+    "curl_resolve": "https://www.tiktok.com/@pesoshekel/video/7639252312438869255?_r=1&_t=ZS-96Jr8Zk19b2|200",
+    "ytdlp_stderr": "",
+    "ytdlp_returncode": 0
   },
   "flintfle": {
     "url": "https://www.tiktok.com/@flintfle/video/7639986768208547093?_r=1&_t=ZS-96NI5JFJlo4",
@@ -36,7 +33,7 @@
     "followers": 0
   },
   "fahfuufyyy": {
-    "url": "https://www.tiktok.com/@/video/7638949288759840020?_r=1&_d=secCgYIASAHKAESPgo8kKNlWkQw6v68TYKPhmMFYC%2FRrqGWQ349PzJk%2BrP4PNzTOTWIKHueSQorQJO9cLJVy7YeuDr6n33yjliRGgA%3D&u_code=eee0c0a4ih40eb&share_item_id=7638949288759840020&timestamp=1778582568&utm_campaign=client_share&utm_source=short_fallback&share_app_id=1233",
+    "url": "https://www.tiktok.com/@/video/7638949288759840020?_r=1&_d=secCgYIASAHKAESPgo88QOYxXe4ZjyZqQv1va0AlNzsyG%2FaHe26cG2JDeBTf0jhherBOTABieGri5%2BrxvQk3FEyHRG01lSN5TTMGgA%3D&u_code=eee0c0a4ih40eb&share_item_id=7638949288759840020&timestamp=1778582568&utm_campaign=client_share&utm_source=short_fallback&share_app_id=1233",
     "views": 508000,
     "likes": 422,
     "shares": 23,
