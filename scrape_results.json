@@ -9,7 +9,7 @@
     "url": "https://www.facebook.com/ReviewMakro/posts/998833782662650"
   },
   "yureefakel": {
-    "url": "https://www.tiktok.com/@yureefake/video/7639755715552267541",
+    "url": "https://www.tiktok.com/@yureefake/video/7639755715552267541?_r=1&_t=ZS-96MAADVk8VF",
     "views": 297700,
     "likes": 397,
     "shares": 4,
@@ -26,17 +26,14 @@
     "saves": 52,
     "followers": 0
   },
-  "flintfle": {
-    "url": "https://www.tiktok.com/@flintfle/video/7639986768208547093?_r=1&_t=ZS-96NI5JFJlo4",
-    "views": 245000,
-    "likes": 2816,
-    "shares": 215,
-    "comments": 43,
-    "saves": 814,
-    "followers": 0
+  "_debug_flintfle": {
+    "orig_url": "https://vt.tiktok.com/ZSxRP88gu/",
+    "curl_resolve": "https://www.tiktok.com/@flintfle/video/7639986768208547093?_r=1&_t=ZS-96NI5JFJlo4|200",
+    "ytdlp_stderr": "",
+    "ytdlp_returncode": 0
   },
   "fahfuufyyy": {
-    "url": "https://www.tiktok.com/@/video/7638949288759840020?_r=1&_d=secCgYIASAHKAESPgo8goudxU12WENncf4hZP2%2FKgkCyN1jS1FKFPZnIufV%2BorSq9ajGjkaAfHNG%2BoZSipfkduN%2FD8%2FD6Jo2RGuGgA%3D&u_code=eee0c0a4ih40eb&share_item_id=7638949288759840020&timestamp=1778582568&utm_campaign=client_share&utm_source=short_fallback&share_app_id=1233",
+    "url": "https://www.tiktok.com/@/video/7638949288759840020?_r=1&_d=secCgYIASAHKAESPgo8TplFF85eibzRWNWIREVyIgNuqB3QutLaDOI9rf2PI6FEASVZpsA2aTn3arGhR568yHi%2BsZeyt1QVKRXZGgA%3D&u_code=eee0c0a4ih40eb&share_item_id=7638949288759840020&timestamp=1778582568&utm_campaign=client_share&utm_source=short_fallback&share_app_id=1233",
     "views": 508000,
     "likes": 422,
     "shares": 23,
@@ -45,7 +42,7 @@
     "followers": 0
   },
   "allailovee": {
-    "url": "https://www.tiktok.com/@allailovee/video/7639612902076468498",
+    "url": "https://www.tiktok.com/@allailovee/video/7639612902076468498?_r=1&_t=ZS-96LVbO2w8Wb",
     "views": 606500,
     "likes": 373,
     "shares": 17,
