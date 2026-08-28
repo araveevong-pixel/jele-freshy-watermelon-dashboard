@@ -9,7 +9,7 @@
     "url": "https://www.facebook.com/ReviewMakro/posts/998833782662650"
   },
   "yureefakel": {
-    "url": "https://www.tiktok.com/@/video/7639755715552267541",
+    "url": "https://www.tiktok.com/@/video/7639755715552267541?_r=1&_d=secCgYIASAHKAESPgo8kgRBrIeLI%2BcNMOAx2o7Ta0%2B9Kgtg4yBJG11NX0w5hYm2NaLhE84%2FV4rJr9whWsc59ruWv9T6SQzGFqOFGgA%3D&u_code=dhc69miid0dlfi&share_item_id=7639755715552267541&timestamp=1778769362&utm_campaign=client_share&utm_source=short_fallback&share_app_id=1233",
     "views": 297700,
     "likes": 397,
     "shares": 4,
@@ -17,17 +17,14 @@
     "saves": 28,
     "followers": 0
   },
-  "pesoshekel": {
-    "url": "https://www.tiktok.com/@/video/7639252312438869255",
-    "views": 191700,
-    "likes": 325,
-    "shares": 10,
-    "comments": 53,
-    "saves": 52,
-    "followers": 0
+  "_debug_pesoshekel": {
+    "orig_url": "https://vt.tiktok.com/ZS9omNMYD/",
+    "curl_resolve": "https://www.tiktok.com/@/video/7639252312438869255?_r=1&_d=secCgYIASAHKAESPgo8XHW3lovka1z0xyVU8P3R7N0%2FZVnDihtJgBO%2FmcZoBTI8nW3lys6Q0JHI72DzS%2BPROABnygtT3itlmvYoGgA%3D&u_code=dhi71illmm3l1e&share_i",
+    "ytdlp_stderr": "ERROR: [TikTok] 7639252312438869255: Unexpected response from webpage request; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U\n",
+    "ytdlp_returncode": 1
   },
   "flintfle": {
-    "url": "https://www.tiktok.com/@flintfle/video/7639986768208547093?_r=1&_t=ZS-96NI5JFJlo4",
+    "url": "https://www.tiktok.com/@/video/7639986768208547093?_r=1&_d=secCgYIASAHKAESPgo8lXA3ddAFxqvNvjfwNdytK%2BIXbJc8JCVjnxAaBBvasMpNAXDvMkBze56dLfB6d%2FpfWvSZDX4mzQNLaWM%2FGgA%3D&u_code=e2a0bd123bha26&share_item_id=7639986768208547093&timestamp=1778826696&utm_campaign=client_share&utm_source=short_fallback&share_app_id=1233",
     "views": 245000,
     "likes": 2816,
     "shares": 215,
@@ -37,12 +34,12 @@
   },
   "_debug_fahfuufyyy": {
     "orig_url": "https://vt.tiktok.com/ZS9KXY8E8/",
-    "curl_resolve": "https://www.tiktok.com/@/video/7638949288759840020?_r=1&_d=secCgYIASAHKAESPgo8rvctv2w6sHnXPAhnfXI5aC4Lru04ruiL0V6gBdOZDlyMx9qx0dd1M7nGHdPz9CpDcYaxZt%2FEz7NX2sEdGgA%3D&u_code=eee0c0a4ih40eb&share_item_",
+    "curl_resolve": "https://www.tiktok.com/@/video/7638949288759840020?_r=1&_d=secCgYIASAHKAESPgo8GmSCguKXEWZwZ6TMR0%2FdD%2Fo5IbrEYZfNeko%2Bmfa%2BcXcUXn%2Bu1014WKtqeF16YzCAne5VD5tIrUtnjdGbGgA%3D&u_code=eee0c0a4ih40eb&sha",
     "ytdlp_stderr": "ERROR: [TikTok] 7638949288759840020: Unexpected response from webpage request; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U\n",
     "ytdlp_returncode": 1
   },
   "allailovee": {
-    "url": "https://www.tiktok.com/@/video/7639612902076468498?_r=1&_d=secCgYIASAHKAESPgo8rWpiRO29d3f4YyHEWWveOjjOFmhLurVgHxeHPlcjWH6dyT1eUMHpzYTxMJx2%2F9R3rx%2F3Df7ayURSkW10GgA%3D&u_code=df0kea437240c5&share_item_id=7639612902076468498&timestamp=1778736102&utm_campaign=client_share&utm_source=short_fallback&share_app_id=1233",
+    "url": "https://www.tiktok.com/@/video/7639612902076468498?_r=1&_d=secCgYIASAHKAESPgo8Auy7FEAq1zy4bIde0wjlsea%2F6brTXqnbGFXsARWW5m2EUr%2B0PDJRAzIA3NsJKNV2%2FYwtDlAuAnP8L454GgA%3D&u_code=df0kea437240c5&share_item_id=7639612902076468498&timestamp=1778736102&utm_campaign=client_share&utm_source=short_fallback&share_app_id=1233",
     "views": 606500,
     "likes": 373,
     "shares": 17,
@@ -50,10 +47,13 @@
     "saves": 42,
     "followers": 0
   },
-  "_debug_dolinn__": {
-    "orig_url": "https://vt.tiktok.com/ZSxJPDQDn/",
-    "curl_resolve": "https://www.tiktok.com/@/video/7639554322346331400?_r=1&_d=secCgYIASAHKAESPgo81Fs3wUtLEUz0xI82STCBQMrpS9FwGmu%2B36mmfuvHr6WRe4SZfWp3Oa%2FiVgcAjnAwqB55m2ADttqA5fI2GgA%3D&u_code=ekhge2g8k7gi6f&share_ite",
-    "ytdlp_stderr": "",
-    "ytdlp_returncode": 0
+  "dolinn__": {
+    "url": "https://www.tiktok.com/@/video/7639554322346331400",
+    "views": 432600,
+    "likes": 358,
+    "shares": 25,
+    "comments": 6,
+    "saves": 35,
+    "followers": 0
   }
 }
