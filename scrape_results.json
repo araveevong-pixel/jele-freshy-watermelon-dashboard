@@ -9,7 +9,7 @@
     "url": "https://www.facebook.com/ReviewMakro/posts/998833782662650"
   },
   "yureefakel": {
-    "url": "https://www.tiktok.com/@/video/7639755715552267541?_r=1&_d=secCgYIASAHKAESPgo8wMZ%2BT1xbRa4XAr5j8ZhP7RLPohvwNeHHmS9FG4Sy1OKgxPpAZEh60l0J4vc23tnPlsrZQ79U%2F%2Bu6dzi8GgA%3D&u_code=dhc69miid0dlfi&share_item_id=7639755715552267541&timestamp=1778769362&utm_campaign=client_share&utm_source=short_fallback&share_app_id=1233",
+    "url": "https://www.tiktok.com/@/video/7639755715552267541?_r=1&_d=secCgYIASAHKAESPgo8cfpJYagOdC8t4FTa9yIfy7CSs%2F1B8FDAzTaqeJyFmBSLFeTI2A6OBNbn7Rexbl9MBBRI2ASenPvboxumGgA%3D&u_code=dhc69miid0dlfi&share_item_id=7639755715552267541&timestamp=1778769362&utm_campaign=client_share&utm_source=short_fallback&share_app_id=1233",
     "views": 297700,
     "likes": 396,
     "shares": 4,
@@ -17,14 +17,17 @@
     "saves": 28,
     "followers": 0
   },
-  "_debug_pesoshekel": {
-    "orig_url": "https://vt.tiktok.com/ZS9omNMYD/",
-    "curl_resolve": "https://www.tiktok.com/@/video/7639252312438869255?_r=1&_d=secCgYIASAHKAESPgo8jGhoonArmViV29Hu%2F%2FT83aaJ1zdiiagmXb0lndxG%2BTNrbDMeddo7qfyJZowbKog4LaXlfmJqq07e5IeHGgA%3D&u_code=dhi71illmm3l1e&share_i",
-    "ytdlp_stderr": "ERROR: [TikTok] 7639252312438869255: Unexpected response from webpage request; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U\n",
-    "ytdlp_returncode": 1
+  "pesoshekel": {
+    "url": "https://www.tiktok.com/@/video/7639252312438869255?_r=1&_d=secCgYIASAHKAESPgo8jDWmNI2QfTsT4bejMvxkxIdIwUJgK4ijcEit3pxo%2BeZmWTc4Z2ti8Ji5MqSwCt6TY6udgwW%2BBmm94gwfGgA%3D&u_code=dhi71illmm3l1e&share_item_id=7639252312438869255&timestamp=1778652085&utm_campaign=client_share&utm_source=short_fallback&share_app_id=1233",
+    "views": 191700,
+    "likes": 325,
+    "shares": 10,
+    "comments": 53,
+    "saves": 52,
+    "followers": 0
   },
   "flintfle": {
-    "url": "https://www.tiktok.com/@/video/7639986768208547093?_r=1&_d=secCgYIASAHKAESPgo85c7vaf%2BH55NFIF4k1klQ5ND%2FQ4iZE0dXWQGj7h5fTwrmyiygzutRWm2Tkfy6%2FO8vg77YhHyPxpxowi7PGgA%3D&u_code=e2a0bd123bha26&share_item_id=7639986768208547093&timestamp=1778826696&utm_campaign=client_share&utm_source=short_fallback&share_app_id=1233",
+    "url": "https://www.tiktok.com/@/video/7639986768208547093?_r=1&_d=secCgYIASAHKAESPgo8o%2BcNWXyPQaJXEoONtuMJqmjMODhsitQ5hYXqudjZ%2Bg4APvMvZrB5aFYVpL3oEIOUn258JI%2BE6jBHKqH2GgA%3D&u_code=e2a0bd123bha26&share_item_id=7639986768208547093&timestamp=1778826696&utm_campaign=client_share&utm_source=short_fallback&share_app_id=1233",
     "views": 245000,
     "likes": 2816,
     "shares": 215,
@@ -33,7 +36,7 @@
     "followers": 0
   },
   "fahfuufyyy": {
-    "url": "https://www.tiktok.com/@/video/7638949288759840020?_r=1&_d=secCgYIASAHKAESPgo8uFkpxbbVaDqr%2FVIiKv39cs%2BF0S5x0aqHAq%2Fp0Nnsq6oPsAnhCDjuTwCg9mXlJojSiMoXyviU2SBk1E0DGgA%3D&u_code=eee0c0a4ih40eb&share_item_id=7638949288759840020&timestamp=1778582568&utm_campaign=client_share&utm_source=short_fallback&share_app_id=1233",
+    "url": "https://www.tiktok.com/@/video/7638949288759840020?_r=1&_d=secCgYIASAHKAESPgo8UtbZjfizgfqIyMrbs%2BFbjB8EarFJ9fxVz1Bmv12xXY%2FOhPGGDxFS0qxSKZFatZb%2BkGGHB66sPxkFDU0VGgA%3D&u_code=eee0c0a4ih40eb&share_item_id=7638949288759840020&timestamp=1778582568&utm_campaign=client_share&utm_source=short_fallback&share_app_id=1233",
     "views": 508000,
     "likes": 422,
     "shares": 23,
@@ -42,7 +45,7 @@
     "followers": 0
   },
   "allailovee": {
-    "url": "https://www.tiktok.com/@/video/7639612902076468498",
+    "url": "https://www.tiktok.com/@/video/7639612902076468498?_r=1&_d=secCgYIASAHKAESPgo8r1k%2BeL8Q8%2F8Wj2glAw0pRPw9cnUG8Y0fd7hnFYnwP9MRJ6ep66%2FMcl4CliTVF5ulVCiT8k7Ydnp%2B9n%2FtGgA%3D&u_code=df0kea437240c5&share_item_id=7639612902076468498&timestamp=1778736102&utm_campaign=client_share&utm_source=short_fallback&share_app_id=1233",
     "views": 606500,
     "likes": 373,
     "shares": 17,
@@ -51,7 +54,7 @@
     "followers": 0
   },
   "dolinn__": {
-    "url": "https://www.tiktok.com/@/video/7639554322346331400",
+    "url": "https://www.tiktok.com/@/video/7639554322346331400?_r=1&_d=secCgYIASAHKAESPgo8VcPiWPeb0MKaEuLWdTNVHuMYD%2FYs4T%2BPeCxyNlYQlXCIuxTLeTkkZAlGIAAkioHeJ7qQXyej%2BrSg8HaGGgA%3D&u_code=ekhge2g8k7gi6f&share_item_id=7639554322346331400&timestamp=1778722409&utm_campaign=client_share&utm_source=short_fallback&share_app_id=1233",
     "views": 432600,
     "likes": 358,
     "shares": 25,
