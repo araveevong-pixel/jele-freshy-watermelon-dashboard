@@ -9,7 +9,7 @@
     "url": "https://www.facebook.com/ReviewMakro/posts/998833782662650"
   },
   "yureefakel": {
-    "url": "https://www.tiktok.com/@/video/7639755715552267541",
+    "url": "https://www.tiktok.com/@/video/7639755715552267541?_r=1&_d=secCgYIASAHKAESPgo8BSTl1VQgSuOSh91aPBfCC7Qj2MsD16d0uUBnGURB2VG4RcMNcSHsHjLUOqRBqUcB2i3LiqUYsVjyrN1DGgA%3D&u_code=dhc69miid0dlfi&share_item_id=7639755715552267541&timestamp=1778769362&utm_campaign=client_share&utm_source=short_fallback&share_app_id=1233",
     "views": 297700,
     "likes": 396,
     "shares": 4,
@@ -18,7 +18,7 @@
     "followers": 0
   },
   "pesoshekel": {
-    "url": "https://www.tiktok.com/@/video/7639252312438869255?_r=1&_d=secCgYIASAHKAESPgo8%2BpJL6Vgcd6cjr0o4RRV%2F%2BHmvkLie%2BeYGAjoQaxHaOQ81BHScV4%2B98zgVIk4nmJXSOlrXJ2G8wpn2DoRaGgA%3D&u_code=dhi71illmm3l1e&share_item_id=7639252312438869255&timestamp=1778652085&utm_campaign=client_share&utm_source=short_fallback&share_app_id=1233",
+    "url": "https://www.tiktok.com/@/video/7639252312438869255",
     "views": 191700,
     "likes": 325,
     "shares": 10,
@@ -27,7 +27,7 @@
     "followers": 0
   },
   "flintfle": {
-    "url": "https://www.tiktok.com/@/video/7639986768208547093?_r=1&_d=secCgYIASAHKAESPgo8hEzhhzzI3U0ldTe%2FTO9als55y%2FO3AlITPOV9fDLRkMhZobeN3ewyfUjGnf2oFw1Io4CCj9QaxdQaBrvmGgA%3D&u_code=e2a0bd123bha26&share_item_id=7639986768208547093&timestamp=1778826696&utm_campaign=client_share&utm_source=short_fallback&share_app_id=1233",
+    "url": "https://www.tiktok.com/@/video/7639986768208547093?_r=1&_d=secCgYIASAHKAESPgo8kHV0aucTUZbQSpQGzMocsaFKnvgrH6z12Ia3g9nNI7byvYIPqMTl3VBLrojsSJsrvz204Brp2KuTMl%2FaGgA%3D&u_code=e2a0bd123bha26&share_item_id=7639986768208547093&timestamp=1778826696&utm_campaign=client_share&utm_source=short_fallback&share_app_id=1233",
     "views": 245000,
     "likes": 2816,
     "shares": 215,
@@ -36,7 +36,7 @@
     "followers": 0
   },
   "fahfuufyyy": {
-    "url": "https://www.tiktok.com/@/video/7638949288759840020?_r=1&_d=secCgYIASAHKAESPgo8HvSqJ902xMd%2FR9YTQpbbbcsCezaizETIyRBdXHC2ceYTkTycbQ%2F3VewZrfZ%2B%2B2B4mrOoX1x66I2Libl7GgA%3D&u_code=eee0c0a4ih40eb&share_item_id=7638949288759840020&timestamp=1778582568&utm_campaign=client_share&utm_source=short_fallback&share_app_id=1233",
+    "url": "https://www.tiktok.com/@/video/7638949288759840020",
     "views": 508000,
     "likes": 422,
     "shares": 23,
@@ -46,17 +46,14 @@
   },
   "_debug_allailovee": {
     "orig_url": "https://vt.tiktok.com/ZSxJcsRFB/",
-    "curl_resolve": "https://www.tiktok.com/@/video/7639612902076468498?_r=1&_d=secCgYIASAHKAESPgo89twwo7mG3ujwRbESXgwdfMurLg%2F%2BxlX3FF%2Bg78wEdOF1013kZPM0L%2BX%2BFSXuTpVC9%2BuDRZd0oa6bB6CxGgA%3D&u_code=df0kea437240c5&s",
+    "curl_resolve": "https://www.tiktok.com/@/video/7639612902076468498?_r=1&_d=secCgYIASAHKAESPgo8U2jYai5OF%2Bl9U5jrsXks7vO3STd6dcMnmOsIVpFlTHMkWBp90Y2b1U66XukLeHk49Tz4WfMKJaeBodtZGgA%3D&u_code=df0kea437240c5&share_item_",
+    "ytdlp_stderr": "ERROR: [TikTok] 7639612902076468498: Unexpected response from webpage request; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U\n",
+    "ytdlp_returncode": 1
+  },
+  "_debug_dolinn__": {
+    "orig_url": "https://vt.tiktok.com/ZSxJPDQDn/",
+    "curl_resolve": "https://www.tiktok.com/@/video/7639554322346331400?_r=1&_d=secCgYIASAHKAESPgo8Ys8ttdAIhSOF9TUi0NR%2F6xb%2B77RF%2FAyNi1GyeFVP6MGjMRBdenHno43%2FfboczswVUmf6dKBzg5Wyo6vpGgA%3D&u_code=ekhge2g8k7gi6f&share",
     "ytdlp_stderr": "",
     "ytdlp_returncode": 0
-  },
-  "dolinn__": {
-    "url": "https://www.tiktok.com/@/video/7639554322346331400?_r=1&_d=secCgYIASAHKAESPgo8VxZL%2BCnc82KwhNub1S8T7mlwpyW%2BvGWhx12JqHdkcqllFUGmqIIvSml2dl4anyP15dxX%2B2UYp%2FH5FNk7GgA%3D&u_code=ekhge2g8k7gi6f&share_item_id=7639554322346331400&timestamp=1778722409&utm_campaign=client_share&utm_source=short_fallback&share_app_id=1233",
-    "views": 432600,
-    "likes": 358,
-    "shares": 25,
-    "comments": 6,
-    "saves": 35,
-    "followers": 0
   }
 }
